@@ -1,6 +1,8 @@
 ### Hi there 👋
 I'm currently working on [Kakara](https://github.com/kakaragame). An open source voxel game. 
+
 I'm currently learning Rust. I want to Learn Rust so it can be the game launcher of my game. 
+
 How to reach me: Discord KingTux#0042
 <!--
 **wherkamp/wherkamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
