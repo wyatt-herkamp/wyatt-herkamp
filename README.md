@@ -4,6 +4,9 @@ I'm currently working on [Kakara](https://github.com/kakaragame). An open source
 I'm currently learning Rust. I want to Learn Rust so it can be the game launcher for my game. 
 
 How to reach me: Discord KingTux#0042
+
+[![Wherkamp's github stats](https://github-readme-stats.vercel.app/api?username=wherkamp)](https://github.com/wherkamp/github-readme-stats)
+
 <!--
 **wherkamp/wherkamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
