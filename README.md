@@ -9,6 +9,7 @@ How to reach me: Discord KingTux#0042
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wherkamp)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Wyatt Herkamp's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wherkamp)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **wherkamp/wherkamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
