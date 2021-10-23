@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm currently working on [Kakara](https://github.com/kakaragame). An open source voxel game. 
 
-I'm currently learning Rust. I want to Learn Rust so it can be the game launcher for my game. 
 
 How to reach me: Discord KingTux#0042 or https://discord.com/invite/hsYyy74ZCF 
 
